@@ -30,9 +30,10 @@ header {
     align-items: center;
 }
 
-header > .logo {
+header > .logo > a {
     font-size: 25px;
     font-weight: 700;
+    color: black;
 }
 
 header > .nav {
